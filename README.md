@@ -77,7 +77,7 @@ Um sistema de elevador utilizando o Raspberry Pi Pico W na plaquinha BitDogLab, 
 
 ## 🎥 Demonstração: 
 
-- Para ver o funcionamento do projeto, acesse o vídeo de demonstração gravado por José Vinicius em: 
+- Para ver o funcionamento do projeto, acesse o vídeo de demonstração gravado por José Vinicius em: https://youtu.be/vgXDEloHKS0
 
 ## 💻 Desenvolvedor
  
